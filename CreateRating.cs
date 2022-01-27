@@ -20,7 +20,7 @@ namespace Company.Function
     {
         Name = name;
     }
-
+//comment
     public string Name { get; set; }
 }
     public static class CreateRating
