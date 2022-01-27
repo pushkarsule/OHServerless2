@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 
-//Test
+//Test2
 namespace LocalFunctionProj
 {
     public static class HttpExample
